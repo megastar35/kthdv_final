@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.fsoft.fa.interviewprocessmanagement.property.FileStorageProperties",
+      "name": "file",
+      "type": "com.fsoft.fa.interviewprocessmanagement.property.FileStorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.fsoft.fa.interviewprocessmanagement.property.FileStorageProperties",
+      "name": "file.upload-dir",
+      "type": "java.lang.String"
+    }
+  ]
+}
